@@ -154,7 +154,7 @@ Because we cover so much material on The Odin Project and link to so many high q
 
 #### Comparing Yourself to Others
 
-Students often compare themselves to others who are farther along in their coding journey or have more experience. This is a recipe for depression and frustration. 
+Students often compare themselves to others who are further along in their coding journey or have more experience. This is a recipe for depression and frustration. 
 
 **Solution:** Only compare yourself to your past self. Have your abilities and knowledge improved from where you were last week, last month, or last year? Be proud of the progress that you've made!
 
